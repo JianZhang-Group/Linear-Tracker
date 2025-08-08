@@ -1,0 +1,338 @@
+[
+  {
+    "timestamp": "2025-08-08T13:27:44.8898657\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 591.3463134765625,
+          "y_center": 176.435302734375,
+          "score": 0.8225983381271362,
+          "timestamp": "2025-08-08 13:27:44.889"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:27:45.3201230\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 592.38232421875,
+          "y_center": 384.5302429199219,
+          "score": 0.7816187143325806,
+          "timestamp": "2025-08-08 13:27:45.319"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:27:45.7577539\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 592.5205078125,
+          "y_center": 585.91845703125,
+          "score": 0.8126749396324158,
+          "timestamp": "2025-08-08 13:27:45.757"
+        },
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 586.1605224609375,
+          "y_center": 580.5133056640625,
+          "score": 0.5615003705024719,
+          "timestamp": "2025-08-08 13:27:45.757"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:27:51.7537831\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 475.00335693359375,
+          "y_center": 103.82830810546875,
+          "score": 0.8205278515815735,
+          "timestamp": "2025-08-08 13:27:51.753"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:27:52.2093254\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 472.96002197265625,
+          "y_center": 299.2738037109375,
+          "score": 0.8471459150314331,
+          "timestamp": "2025-08-08 13:27:52.208"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:27:52.6548181\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 473.1260986328125,
+          "y_center": 523.1142578125,
+          "score": 0.8301495313644409,
+          "timestamp": "2025-08-08 13:27:52.654"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:04.5149672\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 505.1054382324219,
+          "y_center": 177.41964721679688,
+          "score": 0.8121957778930664,
+          "timestamp": "2025-08-08 13:28:04.514"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:04.9646526\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 505.01092529296875,
+          "y_center": 385.021484375,
+          "score": 0.7819236516952515,
+          "timestamp": "2025-08-08 13:28:04.964"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:05.4040055\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 505.448974609375,
+          "y_center": 596.8228759765625,
+          "score": 0.7040002346038818,
+          "timestamp": "2025-08-08 13:28:05.403"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:10.8768711\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 537.1045532226562,
+          "y_center": 25.47631072998047,
+          "score": 0.8526586890220642,
+          "timestamp": "2025-08-08 13:28:10.876"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:11.3082221\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 535.781982421875,
+          "y_center": 208.6126251220703,
+          "score": 0.8546698093414307,
+          "timestamp": "2025-08-08 13:28:11.307"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:11.7532781\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 535.7860717773438,
+          "y_center": 412.04437255859375,
+          "score": 0.7762049436569214,
+          "timestamp": "2025-08-08 13:28:11.752"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:12.1917891\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 534.5296020507812,
+          "y_center": 627.49951171875,
+          "score": 0.6982558369636536,
+          "timestamp": "2025-08-08 13:28:12.191"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:27.4563445\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 576.2242431640625,
+          "y_center": 15.808414459228516,
+          "score": 0.6973583698272705,
+          "timestamp": "2025-08-08 13:28:27.456"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:27.8708992\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 577.0869750976562,
+          "y_center": 206.95008850097656,
+          "score": 0.8735011219978333,
+          "timestamp": "2025-08-08 13:28:27.870"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:28.3098068\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 577.2476196289062,
+          "y_center": 400.567138671875,
+          "score": 0.7723659873008728,
+          "timestamp": "2025-08-08 13:28:28.309"
+        },
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 573.2293701171875,
+          "y_center": 393.2343444824219,
+          "score": 0.8002142906188965,
+          "timestamp": "2025-08-08 13:28:28.309"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:28.7519430\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 578.889892578125,
+          "y_center": 627.200439453125,
+          "score": 0.7921303510665894,
+          "timestamp": "2025-08-08 13:28:28.751"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:34.6740094\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 487.61761474609375,
+          "y_center": 146.99249267578125,
+          "score": 0.8341684341430664,
+          "timestamp": "2025-08-08 13:28:34.673"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:35.1115843\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 487.9497375488281,
+          "y_center": 354.40509033203125,
+          "score": 0.7935994267463684,
+          "timestamp": "2025-08-08 13:28:35.111"
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-08-08T13:28:35.5500888\u002B08:00",
+    "detection": {
+      "status": "ok",
+      "detections": [
+        {
+          "id": -1,
+          "class": "bottle_cap",
+          "x_center": 487.07623291015625,
+          "y_center": 568.0697021484375,
+          "score": 0.8167082667350769,
+          "timestamp": "2025-08-08 13:28:35.549"
+        }
+      ]
+    }
+  }
+]
